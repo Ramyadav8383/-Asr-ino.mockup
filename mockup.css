@@ -1,0 +1,67 @@
+.moc {
+    margin-top: -25px;
+    text-align: center;
+}
+
+.mock {
+    text-align: center;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    border: 5px solid black;
+    width: 25%;
+    padding: 20px;
+    background-color: aliceblue;
+}
+
+h1 {
+    font-size: 38px;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    width: 140px;
+    border-radius: 75px;
+    /* margin-left: 450px;
+    padding: 20px;
+    float: inline-start;
+    border-radius: 1000px; */
+}
+
+.image {
+    text-align: center;
+    padding-top: 3px;
+}
+
+p {
+    text-align: center;
+    border: 5px;
+}
+
+.logo {
+    text-align: center;
+}
+
+i {
+    padding: 5px;
+}
+
+.footer {
+    background-color: aqua;
+    width: 73%;
+    border-radius: 5px;
+    margin-left: 42px;
+    padding: 10px;
+}
+
+span {
+    color: aqua;
+}
